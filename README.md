@@ -10,8 +10,8 @@ Resources to get started with EMFI, based on my HWIO USA 2023 talk.
 * Delay Generator:
   * FPGA: [Cmod A7-35T](https://digilent.com/shop/cmod-a7-35t-breadboardable-artix-7-fpga-module/)
   * Bitstream: [ChipFail Glitcher :octocat:](https://github.com/unixb0y/chipfail-glitcher)
-  * Breakout board: [EMFI Companion :octocat:](https://github.com/unixb0y) :construction:
-  <img src="https://github.com/unixb0y/EMFI-Resources/assets/6874233/38f7bf57-9268-4e78-bea2-5d4ce9be5e0c" width="25%"/>
+  * Breakout board: [EMFI Companion :octocat:](https://github.com/unixb0y/EMFI_Companion)
+  <img src="https://github.com/unixb0y/EMFI-Resources/assets/6874233/f2d9f499-8554-461f-966d-45b9f316a644" width="25%"/>
 
 * EMFI Pulser:
   * Either: [ChipSHOUTER](https://www.newae.com/chipshouter)
