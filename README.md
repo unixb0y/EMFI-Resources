@@ -17,7 +17,7 @@ Resources to get started with EMFI, based on my [HWIO USA 2023 & PTS 2024 talks]
   * Commercial: [ChipSHOUTER](https://www.newae.com/chipshouter)
 
 ## Optional Components (depending on target / needs)
-* [Hardware Reset :octocat:](https://github.com/unixb0y) :construction:
+* [Hardware Reset :octocat:](https://github.com/unixb0y/HardwareReset)
 <img src="https://github.com/unixb0y/EMFI-Resources/assets/6874233/38e8bda0-f81b-46fc-ad63-7130ab995daa" width="25%"/>
 
 * Debugger:
